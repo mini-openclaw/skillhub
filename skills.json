@@ -1,0 +1,138 @@
+{
+  "version": "1.0.0",
+  "name": "Mini-OpenClaw Official SkillHub",
+  "description": "Community repository for Mini-OpenClaw skills",
+  "homepage": "https://github.com/mini-openclaw/skills",
+  "skills": [
+    {
+      "name": "weather",
+      "version": "1.0.0",
+      "description": "Get current weather and forecast for any location using wttr.in",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["weather", "forecast", "utility"],
+      "category": "information",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "calculator",
+      "version": "1.0.0",
+      "description": "Perform mathematical calculations (add, subtract, multiply, divide, power, sqrt, sin, cos, tan, etc.)",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["calculator", "math", "utility"],
+      "category": "utility",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "currency",
+      "version": "1.0.0",
+      "description": "Convert between currencies using real-time exchange rates",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["currency", "converter", "finance", "utility"],
+      "category": "finance",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "translator",
+      "version": "1.0.0",
+      "description": "Translate text between languages using MyMemory API",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["translator", "language", "utility"],
+      "category": "utility",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "qrcode",
+      "version": "1.0.0",
+      "description": "Generate QR codes for text or URLs",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["qrcode", "qr", "generator", "utility"],
+      "category": "utility",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "url_shorten",
+      "version": "1.0.0",
+      "description": "Shorten long URLs using Ulvis API",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["url", "shortener", "utility"],
+      "category": "utility",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "dictionary",
+      "version": "1.0.0",
+      "description": "Get definitions and meanings of English words",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["dictionary", "definition", "words", "utility"],
+      "category": "information",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "joke",
+      "version": "1.0.0",
+      "description": "Get random jokes from various categories",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["joke", "fun", "entertainment"],
+      "category": "entertainment",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "code_format",
+      "version": "1.0.0",
+      "description": "Format code using Prettier (supports JavaScript, TypeScript, Python, JSON, etc.)",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["code", "formatter", "prettier", "developer"],
+      "category": "developer",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "fact",
+      "version": "1.0.0",
+      "description": "Get interesting random facts",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["fact", "trivia", "entertainment"],
+      "category": "entertainment",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "image_gen",
+      "version": "1.0.0",
+      "description": "Generate images from text prompts using AI",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["image", "generator", "AI", "art"],
+      "category": "entertainment",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "gif_search",
+      "version": "1.0.0",
+      "description": "Search and get GIFs from GIPHY",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["gif", "giphy", "search", "entertainment"],
+      "category": "entertainment",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    },
+    {
+      "name": "bitly",
+      "version": "1.0.0",
+      "description": "Shorten URLs using Bitly (requires API token)",
+      "author": "Mini-OpenClaw Team",
+      "tags": ["url", "shortener", "bitly"],
+      "category": "utility",
+      "homepage": "https://github.com/mini-openclaw/skills",
+      "repository": "https://github.com/mini-openclaw/skills"
+    }
+  ]
+}
